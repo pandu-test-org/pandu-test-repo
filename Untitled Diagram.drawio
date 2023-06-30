@@ -1,40 +1,134 @@
-<mxfile host="app.diagrams.net" modified="2023-06-30T09:12:06.476Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/114.0" etag="_FC7sV43MSC4G4PMs5dP" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-30T09:35:25.239Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/114.0" etag="Hn1Cd2sgZYkEJB24edZI" version="21.3.5" type="github">
   <diagram name="Page-1" id="RJECzWCaLwTh5v6VklvE">
     <mxGraphModel dx="1050" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EU_8D-w05oMhLaDSQIXl-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EU_8D-w05oMhLaDSQIXl-1">
+        <mxCell id="EU_8D-w05oMhLaDSQIXl-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100" y="480" as="targetPoint" />
+            <mxPoint x="90" y="158" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="100" y="290" />
+              <mxPoint x="100" y="290" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EU_8D-w05oMhLaDSQIXl-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="EU_8D-w05oMhLaDSQIXl-1" value="&lt;b&gt;User&lt;/b&gt; (pganapa1.in.ibm.com)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EU_8D-w05oMhLaDSQIXl-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EU_8D-w05oMhLaDSQIXl-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="480" as="targetPoint" />
+            <mxPoint x="337" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="337" y="300" />
+              <mxPoint x="337" y="300" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EU_8D-w05oMhLaDSQIXl-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="EU_8D-w05oMhLaDSQIXl-2" value="&lt;div&gt;&lt;b&gt;Provisioning Account&lt;/b&gt; (dreadnought-dev-operations)&lt;/div&gt;&lt;div&gt;(dreadnought-prod-operations)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="277" y="40" width="123" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EU_8D-w05oMhLaDSQIXl-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EU_8D-w05oMhLaDSQIXl-3">
+        <mxCell id="EU_8D-w05oMhLaDSQIXl-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EU_8D-w05oMhLaDSQIXl-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="500" y="480" as="targetPoint" />
+            <mxPoint x="537" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EU_8D-w05oMhLaDSQIXl-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="EU_8D-w05oMhLaDSQIXl-3" value="&lt;div&gt;&lt;b&gt;Audit Account&lt;/b&gt; (dreadnought-dev-compliance)&lt;/div&gt;&lt;div&gt;(dreadnought-prod-compliance)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="477" y="40" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EU_8D-w05oMhLaDSQIXl-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EU_8D-w05oMhLaDSQIXl-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="700" y="480" as="targetPoint" />
+            <mxPoint x="737" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EU_8D-w05oMhLaDSQIXl-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="EU_8D-w05oMhLaDSQIXl-4" value="&lt;div&gt;&lt;b&gt;Global Account&lt;/b&gt; (dreadnought-dev-scanner)&lt;/div&gt;&lt;div&gt;(dreadnought-prod-core-plaform-api)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="677" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EU_8D-w05oMhLaDSQIXl-29" value="audit-account-setup" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="131" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EU_8D-w05oMhLaDSQIXl-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="160" as="sourcePoint" />
+            <mxPoint x="100" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EU_8D-w05oMhLaDSQIXl-25" value="&lt;div&gt;dreadnought-audit-account-setup&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="132" y="128" width="70" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="EU_8D-w05oMhLaDSQIXl-32" value="TF-Modlue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="188" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EU_8D-w05oMhLaDSQIXl-33" value="TF-Modlue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="188" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EU_8D-w05oMhLaDSQIXl-34" value="KP and COS Instance&lt;br&gt;Schematic Module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="140" width="90" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="EU_8D-w05oMhLaDSQIXl-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="240" as="sourcePoint" />
+            <mxPoint x="500" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EU_8D-w05oMhLaDSQIXl-36" value="&lt;div&gt;KP and COS Instance&lt;/div&gt;&lt;div&gt;Created&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="210" width="90" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="EU_8D-w05oMhLaDSQIXl-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="319" as="sourcePoint" />
+            <mxPoint x="590" y="318.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EU_8D-w05oMhLaDSQIXl-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EU_8D-w05oMhLaDSQIXl-38" target="EU_8D-w05oMhLaDSQIXl-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EU_8D-w05oMhLaDSQIXl-38" value="call" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="710" y="287" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EU_8D-w05oMhLaDSQIXl-41" value="&lt;div&gt;dreadnought-account-setup-module&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="270" width="70" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="EU_8D-w05oMhLaDSQIXl-43" value="TF-Modlue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="339" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EU_8D-w05oMhLaDSQIXl-44" value="&lt;div&gt;COS Bucket and observabality instances&lt;br&gt;&lt;/div&gt;&lt;div&gt;Created&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="280" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EU_8D-w05oMhLaDSQIXl-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EU_8D-w05oMhLaDSQIXl-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="128" as="targetPoint" />
+            <mxPoint x="100" y="120" as="sourcePoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EU_8D-w05oMhLaDSQIXl-48" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.057;entryY=0.642;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="EU_8D-w05oMhLaDSQIXl-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="160" as="sourcePoint" />
+            <mxPoint x="450" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EU_8D-w05oMhLaDSQIXl-49" value="&lt;div&gt;call&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="131" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EU_8D-w05oMhLaDSQIXl-51" value="&lt;div&gt;call&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="204" y="129" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EU_8D-w05oMhLaDSQIXl-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EU_8D-w05oMhLaDSQIXl-25" target="EU_8D-w05oMhLaDSQIXl-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="330" as="sourcePoint" />
+            <mxPoint x="450" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EU_8D-w05oMhLaDSQIXl-53" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.011;entryY=0.373;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EU_8D-w05oMhLaDSQIXl-29" target="EU_8D-w05oMhLaDSQIXl-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="330" as="sourcePoint" />
+            <mxPoint x="450" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EU_8D-w05oMhLaDSQIXl-57" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Sequence Diagram for Global Account Setup&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="235" width="320" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
