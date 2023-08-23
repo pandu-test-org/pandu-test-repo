@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-22T11:14:59.840Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="kbIOKtA9b7q7KYj1GgRi" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-23T07:33:45.391Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="7P7qlBphxnfJN7C8b2us" version="21.6.8" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1242" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="920" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,10 +11,10 @@
           <mxGeometry x="486" y="40" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="4vx_JHCexmXdJHeHtMgG-1" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="90" width="30" height="60" as="geometry" />
+          <mxGeometry x="45" y="90" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4vx_JHCexmXdJHeHtMgG-3" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.application;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="35.5" y="220" width="34.5" height="64.5" as="geometry" />
+          <mxGeometry x="45.5" y="220" width="34.5" height="64.5" as="geometry" />
         </mxCell>
         <mxCell id="4vx_JHCexmXdJHeHtMgG-8" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/data/cloud.svg;" vertex="1" parent="1">
           <mxGeometry x="150" y="160" width="60" height="60" as="geometry" />
@@ -53,7 +53,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4vx_JHCexmXdJHeHtMgG-18" value="App / Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="290" width="60" height="20" as="geometry" />
+          <mxGeometry x="30" y="290" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4vx_JHCexmXdJHeHtMgG-19" value="Activity Tracker Instance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="145" width="120" height="60" as="geometry" />
@@ -69,6 +69,9 @@
         </mxCell>
         <mxCell id="4vx_JHCexmXdJHeHtMgG-22" value="backup" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="425" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4vx_JHCexmXdJHeHtMgG-26" value="Fig: Each account AT events will be backed-up into their respective COS bucket in Audit account.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="370" width="570" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
