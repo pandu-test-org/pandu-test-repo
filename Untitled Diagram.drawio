@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T13:50:56.064Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ci18I39oUui_sn_i-RAh" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-19T07:15:33.911Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="nNuNmGcdkLCzv4HV42jf" version="22.1.21" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1050" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="ieFJYDUOtbQtJVKfnM7J-6" value="currentList" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="460" y="138" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ieFJYDUOtbQtJVKfnM7J-7" value="&lt;u&gt;findDiff from oldList&lt;/u&gt;&lt;br&gt;additionList&lt;br&gt;deletionList&lt;br&gt;newList" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ieFJYDUOtbQtJVKfnM7J-7" value="&lt;u&gt;findDiff from SGIPList&lt;/u&gt;&lt;br&gt;additionList&lt;br&gt;deletionList" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ieFJYDUOtbQtJVKfnM7J-8" value="A2" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
@@ -73,14 +73,8 @@
         <mxCell id="ieFJYDUOtbQtJVKfnM7J-12" value="apply deletionList" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="210" y="358" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ieFJYDUOtbQtJVKfnM7J-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="ieFJYDUOtbQtJVKfnM7J-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="480" as="sourcePoint" />
-            <mxPoint x="450" y="260" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ieFJYDUOtbQtJVKfnM7J-14" value="approveDeletion" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="475" y="458" width="110" height="30" as="geometry" />
+        <mxCell id="ieFJYDUOtbQtJVKfnM7J-16" value="&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;SGIPList&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="340" width="50" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
