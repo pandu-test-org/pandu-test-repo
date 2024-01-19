@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-19T07:15:33.911Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="nNuNmGcdkLCzv4HV42jf" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-19T07:19:18.644Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="JAKkh233pXwDREtGmL0A" version="22.1.21" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1050" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -74,7 +74,7 @@
           <mxGeometry x="210" y="358" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ieFJYDUOtbQtJVKfnM7J-16" value="&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;SGIPList&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="340" width="50" height="60" as="geometry" />
+          <mxGeometry x="130" y="340" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
